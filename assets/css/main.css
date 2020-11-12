@@ -131,11 +131,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: #000000;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #000000;
 			}
 
 	h3 {
@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #eee4e6;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
