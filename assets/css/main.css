@@ -1923,7 +1923,7 @@ input, select, textarea {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			background: #222729 url("images/overlay.png");
+			background: #000000 url("images/overlay.png");
 		}
 
 		table thead {
@@ -2440,7 +2440,7 @@ input, select, textarea {
 				width: 275px;
 				z-index: 10002;
 				width: 275px;
-				background: #222729 url("images/overlay.png");
+				background: #000000 url("images/overlay.png");
 				box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
 			}
 
