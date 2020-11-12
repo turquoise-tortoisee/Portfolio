@@ -1923,7 +1923,7 @@ input, select, textarea {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			background: #000000 url("images/overlay.png");
+			background: #383535 url("images/overlay.png");
 		}
 
 		table thead {
